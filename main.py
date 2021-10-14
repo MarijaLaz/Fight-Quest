@@ -1,4 +1,4 @@
-from Classes.Menu import Menu
+from data.Classes.Menu import Menu
 
 
 if __name__ == "__main__":
